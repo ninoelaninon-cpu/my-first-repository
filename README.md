@@ -13,3 +13,12 @@
 - Git tracks changes to files.
 - GitHub hosts repositories online.
 - Commits record changes in the project history.
+
+## My Computing Goals
+- Learn how to create websites and applications.
+- Improve my computer networking skills.
+- Understand how databases work.
+
+## My Favorite Technology
+My favorite technology is the smartphone because it helps people communicate, study, and access information easily.
+I chose it because it makes everyday tasks faster and allows me to learn new things anytime and anywhere.
